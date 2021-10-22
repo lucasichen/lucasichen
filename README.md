@@ -1,7 +1,7 @@
 ### Hi I'm Lucas👋 Welcome to my GitHub
 
 <h2> About Me </h2>
-<p>I am a software engineering student at McMaster University</p>
+<p>I am a studying software engineering at McMaster University</p>
 <ul>
   <li>🔭 I’m currently looking for new opporunties</li>
   <li>🌱 I’m currently learning java</li>
