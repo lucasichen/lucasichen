@@ -7,7 +7,7 @@
 * 🌱 I’m currently learning java
 * 📫 Contact with me on <a href="https://www.linkedin.com/in/lucasichen/">LinkedIn</a>
 
-### Langauges
+### Langauges/Frameworks
 ` Intermdiate: `
 Python <br />
 ` Pior Experience: `
