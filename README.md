@@ -5,7 +5,7 @@
 <ul>
   <li>🔭 I’m currently looking for new opporunties</li>
   <li>🌱 I’m currently learning java</li>
-  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/lucasichen/">LinkedIn</a></li>
+  <li>📫 Contact with me on <a href="https://www.linkedin.com/in/lucasichen/">LinkedIn</a></li>
 </ul>
 
 <!--
