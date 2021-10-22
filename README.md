@@ -2,10 +2,9 @@
 
 <h2> About Me </h2>
 <p>I am a studying software engineering at McMaster University</p>
-<ul>
-  <li>🔭 I’m currently looking for new opporunties</li>
-  <li>🌱 I’m currently learning java</li>
-  <li>📫 Contact with me on <a href="https://www.linkedin.com/in/lucasichen/">LinkedIn</a></li>
+*🔭 I’m currently looking for new opporunties
+*🌱 I’m currently learning java
+*📫 Contact with me on <a href="https://www.linkedin.com/in/lucasichen/">LinkedIn</a>
 </ul>
 
 <!--
