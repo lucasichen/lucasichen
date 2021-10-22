@@ -2,8 +2,10 @@
 
 <h2> About Me </h2>
 <p>I am a software engineering student at McMaster University</p>
-<p>🔭 I’m currently working on </p>
-
+<ul>
+  <li><p>🔭 I’m currently looking for new opporunties </p> </li>
+  <li><p>🌱 I’m currently learning java </p> </li>
+</ul>
 
 <!--
 **lucasichen/lucasichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
