@@ -1,6 +1,6 @@
 ### Hi I'm Lucas👋 Welcome to my GitHub
 
-## About Me
+<h2> About Me </h2>
 <p>I am a software engineering student at McMaster University</p>
 
 
