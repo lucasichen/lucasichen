@@ -7,9 +7,11 @@
 * 🌱 I’m currently learning java
 * 📫 Contact with me on <a href="https://www.linkedin.com/in/lucasichen/">LinkedIn</a>
 
-### Languages ###
-` Front-End: `
-JavaScript, HTML, CSS
+### Langauges
+` Intermdiate: `
+Python
+` Pior Experience: `
+JavaScript, Selenium, SQL, HTML 5, CSS3, Flask
 <!--
 **lucasichen/lucasichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
