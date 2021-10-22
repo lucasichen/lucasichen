@@ -3,8 +3,9 @@
 <h2> About Me </h2>
 <p>I am a software engineering student at McMaster University</p>
 <ul>
-  <li><p>🔭 I’m currently looking for new opporunties </p> </li>
-  <li><p>🌱 I’m currently learning java </p> </li>
+  <li>🔭 I’m currently looking for new opporunties</li>
+  <li>🌱 I’m currently learning java</li>
+  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/lucasichen/">LinkedIn</a></li>
 </ul>
 
 <!--
