@@ -8,7 +8,7 @@
 *📫 Contact with me on <a href="https://www.linkedin.com/in/lucasichen/">LinkedIn</a>
 
 ### Languages and Tools ###
-__``` Front-End: ```__ &nbsp;
+__` Front-End: `__ &nbsp;
 <!--
 **lucasichen/lucasichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
