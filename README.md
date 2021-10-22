@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'm Lucas👋 Welcome to my GitHub
+
+## About Me
+<p>I am a software engineering student at McMaster University</p>
+
+
 
 <!--
 **lucasichen/lucasichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
