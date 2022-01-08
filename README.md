@@ -9,7 +9,7 @@
 
 ### Langauges/Frameworks
 ` Intermdiate: `
-Python <br />
+Python, Java <br />
 ` Pior Experience: `
 JavaScript, Selenium, SQL, HTML 5, CSS3, Flask  <br />
 <!--
