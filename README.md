@@ -11,7 +11,7 @@
 ` Intermdiate: `
 Python, Java <br />
 ` Pior Experience: `
-JavaScript, Selenium, SQL, HTML 5, CSS3, Flask  <br />
+JavaScript, Selenium, SQL, HTML 5, CSS3, Flask, C, BASH  <br />
 <!--
 **lucasichen/lucasichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
