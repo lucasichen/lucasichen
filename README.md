@@ -3,7 +3,7 @@
 <h2> About Me </h2>
 <p>I am a studying software engineering at McMaster University</p>
 
-* 🔭 I’m currently looking for new opporunties
+* 🔭 I’m currently a Software Developer Intern @ Exchnage Solutions
 * 🌱 I’m currently learning java
 * 📫 Connect with me on <a href="https://www.linkedin.com/in/lucasichen/">LinkedIn</a>
 
