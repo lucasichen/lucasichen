@@ -1,19 +1,20 @@
 ### Hi I'm Lucas👋 Welcome to my GitHub
-<div align="center">
-<a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasichen&count_private=true&show_icons=true&hide_rank=true" />
-</a>
-
-<a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasichen&layout=compact" />
-</div>
-
 <h2> About Me </h2>
 <p>I am a studying software engineering at McMaster University</p>
 
 * 🔭 I’m currently a Software Developer Intern @ Exchnage Solutions
 * 🌱 I’m currently learning java
 * 📫 Connect with me on <a href="https://www.linkedin.com/in/lucasichen/">LinkedIn</a>
+
+<div align="center">
+    <a>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasichen&count_private=true&show_icons=true&hide_rank=true" />
+    </a>
+
+    <a>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasichen&layout=compact" />
+    </a>
+</div>
 
 ### Langauges/Frameworks
 ` Intermdiate: `
