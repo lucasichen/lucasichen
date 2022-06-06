@@ -7,7 +7,7 @@
 * 🌱 I’m currently learning java
 * 📫 Connect with me on <a href="https://www.linkedin.com/in/lucasichen/">LinkedIn</a>
 
-[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasichen&count_private=true)](https://github.com/lucasichen/github-readme-stats)
+[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasichen&count_private=true&show_icons=true)](https://github.com/lucasichen/github-readme-stats)
 
 ### Langauges/Frameworks
 ` Intermdiate: `
