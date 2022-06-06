@@ -7,12 +7,8 @@
 * 📫 Connect with me on <a href="https://www.linkedin.com/in/lucasichen/">LinkedIn</a>
 
 <div align="center">
-    <a>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasichen&count_private=true&show_icons=true&hide_rank=true" />
-    </a>
-
-    <a>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasichen&layout=compact" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasichen&count_private=true&show_icons=true&hide_rank=true" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasichen&layout=compact" />
 </div>
 
 ### Langauges/Frameworks
