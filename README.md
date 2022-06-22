@@ -38,8 +38,11 @@ src="https://img.shields.io/github/followers/lucasichen?logo=github&style=for-th
 ### Badges
 
 <b>My GitHub Stats</b>
+<div align="center">
+   <a href="http://www.github.com/lucasichen"><img src="https://github-readme-stats.vercel.app/api?username=lucasichen&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucasichen's GitHub stats" /></a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasichen&layout=compact&hide=html,css,jupyter%20notebook" />
+</div>
 
-<a href="http://www.github.com/lucasichen"><img src="https://github-readme-stats.vercel.app/api?username=lucasichen&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucasichen's GitHub stats" /></a>
 
 ### Langauges/Frameworks
 ` Intermdiate: `
