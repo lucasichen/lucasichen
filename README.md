@@ -32,20 +32,9 @@ src="https://img.shields.io/github/followers/lucasichen?logo=github&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/lucasichen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lucasichen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 <div align="center">
    <a href="http://www.github.com/lucasichen"><img src="https://github-readme-stats.vercel.app/api?username=lucasichen&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucasichen's GitHub stats" /></a>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasichen&layout=compact&hide=html,css,jupyter%20notebook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" />
 </div>
-
-
-### Langauges/Frameworks
-` Intermdiate: `
-Python, Java, JavaScript <br />
-` Pior Experience: `
-Selenium, SQL, HTML5, CSS3, Flask, C, BASH, React, Node.js  <br />
-<!--
-**lucasichen/lucasichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
