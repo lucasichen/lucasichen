@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas Chen
 Previous Software Developer Intern @ Exchange Solutions
 ----------------------------------------------
 
-I am a 3rd-year Software Engineering Student at McMaster University with interests in AI/ML and web development
+I am a 3rd-year Software Engineering Student at McMaster University with interests in software development and web development.
 
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [MyPortfolio](http://lucasichen.netlify.app/)
