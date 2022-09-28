@@ -16,8 +16,6 @@ src="https://img.shields.io/github/followers/lucasichen?logo=github&style=for-th
 ### Skills
 <br>
 
-### Tech Stack
-
 ```json
 {
   "language": ["javascript", "java", "python", "CSS3", "HTML5"],
