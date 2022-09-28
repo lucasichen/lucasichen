@@ -1,7 +1,7 @@
 Hi 👋 My name is Lucas Chen
 ===========================
 
-Software Developer Intern @ Exchange Solutions
+Previous Software Developer Intern @ Exchange Solutions
 ----------------------------------------------
 
 I am a 3rd-year Software Engineering Student at McMaster University with interests in AI/ML and web development
