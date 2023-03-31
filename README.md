@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/lucasichen?logo=github&style=for-th
 {
   "language": ["python", "java", "javascript", "SQL", "CSS3", "HTML5"],
   "backend": ["Node.js", "express"],
-  "Frameworks" : ["React.js", "Next.js", "flask"],
+  "Frameworks" : ["React.js","React-Native", "Next.js", "flask"],
   "database": ["firebase", "dynamoDB", "db2"],
   "tools" : ["Git", "GitHub", "JSON", "selenium"]
 }
