@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Lucas+%F0%9F%98%83;3rd+year+software+Engineer+%40+McMaster+;Looking+for+next+internship+%F0%9F%91%80)](https://git.io/typing-svg)
 ===========================
-
-Previous Software Developer Intern @ Exchange Solutions
+Incoming SDE Intern @ Hexagon MI
+Previous SDE Intern @ Exchange Solutions
 ----------------------------------------------
 
 I am a 3rd-year Software Engineering Student at McMaster University with interests in software development and web development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
