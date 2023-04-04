@@ -21,8 +21,8 @@ src="https://img.shields.io/github/followers/lucasichen?logo=github&style=for-th
 ```json
 {
   "language": ["python", "java", "javascript", "SQL", "CSS3", "HTML5"],
-  "backend": ["Node.js", "express"],
-  "Frameworks" : ["React.js","React-Native", "Next.js", "flask"],
+  "backend": ["Node.js", "express", "flask"],
+  "Frameworks" : ["React.js","React-Native", "Next.js"],
   "database": ["firebase", "dynamoDB", "db2"],
   "tools" : ["Git", "GitHub", "JSON", "selenium"]
 }
