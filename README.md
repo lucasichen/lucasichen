@@ -11,7 +11,7 @@ I am a 3rd-year Software Engineering Student at McMaster University with interes
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [MyPortfolio](http://lucasichen.netlify.app/)
 * ✉️  You can contact me at [lucas@ichen.ca](mailto:lucas@ichen.ca)
-* 🧠  I'm learning 8th Wall
+* 🧠  I'm learning app development
 
 <a href="https://www.github.com/lucasichen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lucasichen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
