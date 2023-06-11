@@ -6,7 +6,7 @@
   - QA Intern @ InsideDesk
 ----------------------------------------------
 
-I am a 3rd-year Software Engineering Student at McMaster University with interests in software development and web development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a 4rd-year Software Engineering Student at McMaster University with interests in software development and web development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [lucasichen.ca](http://lucasichen.ca/)
