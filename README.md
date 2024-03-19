@@ -9,7 +9,7 @@
 I am a 4th-year Software Engineering Student at McMaster University with interests in software development and web development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [lucasichen.ca](http://lucasichen.ca/)
+* 🖥️  See my portfolio [here](http://lucasichen.netlify.app)
 * ✉️  You can contact me at [lucas@ichen.ca](mailto:lucas@ichen.ca)
 * 🧠  I'm learning app development
 
