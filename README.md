@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Lucas+%F0%9F%98%83;3rd+year+software+Engineer+%40+McMaster+;Looking+for+next+internship+%F0%9F%91%80)](https://git.io/typing-svg)
 ===========================
-- SDE Intern @ Hexagon MI
+- Currently
+  - SDE Intern @ Hexagon MI
 - Previously 
   - SDE Intern @ Exchange Solutions
   - QA Intern @ InsideDesk
@@ -11,7 +12,6 @@ I am a 4th-year Software Engineering Student at McMaster University with interes
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio [here](http://lucasichen.netlify.app)
 * ✉️  You can contact me at [lucas@ichen.ca](mailto:lucas@ichen.ca)
-* 🧠  I'm learning app development
 
 <a href="https://www.github.com/lucasichen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lucasichen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -20,11 +20,12 @@ src="https://img.shields.io/github/followers/lucasichen?logo=github&style=for-th
 
 ```json
 {
-  "language": ["python", "java", "javascript", "SQL", "CSS3", "HTML5"],
-  "backend": ["Node.js", "express", "flask"],
-  "Frameworks" : ["React.js","React-Native", "Next.js"],
-  "database": ["firebase", "dynamoDB", "db2"],
-  "tools" : ["Git", "GitHub", "JSON", "selenium"]
+  "language": ["typescript", "python", "C#", "java", "javascript", "noSQL", "CSS3", "HTML5"],
+  "backend": ["expressJs", "NodeJs", "flask"],
+  "frontend" : ["reactJs", "react-Native", "nextJs"],
+  "database": ["cosmosDB", "firebase firestore", "dynamoDB", "db2"],
+  "testing": ["playwright", "jest", "selenium"]
+  "tools" : ["git", "azure devops", "jira"]
 }
 ```
 
