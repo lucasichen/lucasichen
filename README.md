@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Lucas+%F0%9F%98%83;3rd+year+software+Engineer+%40+McMaster+;Looking+for+next+internship+%F0%9F%91%80)](https://git.io/typing-svg)
 ===========================
 - Currently
-  - SDE Intern @ Hexagon MI
+  - Full Stack Engineering Intern @ Hexagon MI
 - Previously 
   - SDE Intern @ Exchange Solutions
   - QA Intern @ InsideDesk
