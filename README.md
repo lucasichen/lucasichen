@@ -11,7 +11,7 @@ I am a 4th-year Software Engineering Student at McMaster University with interes
 
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio [here](http://lucasichen.netlify.app)
-* ✉️  You can contact me at [lucas@ichen.ca](mailto:lucas@ichen.ca)
+* ✉️  You can contact me at [linkedin](https://www.linkedin.com/in/lucasichen/)
 
 <a href="https://www.github.com/lucasichen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lucasichen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
